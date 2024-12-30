@@ -5,7 +5,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yikuni&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" height="160em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yikuni&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&locale=cn" height="160em" />
   
 
   <br/>
@@ -19,13 +19,13 @@
 
 <div align="center">
   
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Yikuni&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ Yikuni's stars ✨" height="135em"  />
   
 </div>
 
 <div align="center">
     
-<img src="https://github-readme-stats.vercel.app/api?username=Yikuni&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ Yikuni's stars ✨" height="135em"  />
+
   
   
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Yikuni&theme=tokyonight&hide_border=true&border_radius=3.5&locale=zh" alt="✨ Yikuni's streak ✨" height="135em"  />
