@@ -40,10 +40,13 @@ AI in Medicine
 
 ### 📊
     
-<a href="https://kotlinlang.org/">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg" alt="kotlin" width="60" height="60" />
-</a>
+</div>
 
-  <a href="https://golang.google.cn/">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="golang" width="60" height="60" />
-</a>
+<div align="center">
+    
+<img src="https://github-readme-stats.vercel.app/api?username=Yikuni&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="✨ Yikuni's stars ✨" height="135em"  />
+  
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Yikuni&theme=tokyonight&hide_border=true&border_radius=3.5&locale=zh" alt="✨ Yikuni's streak ✨" height="135em"  />
+ 
+</div>
